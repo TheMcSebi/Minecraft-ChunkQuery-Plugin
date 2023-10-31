@@ -1,6 +1,8 @@
 # Minecraft-ChunkViewer-Plugin
 
-Minecraft Paper plugin for retrieving basic chunk and player information from a minecraft server
+Minecraft Paper plugin for retrieving basic chunk and player information from a minecraft server  
+
+Used as backend for [Minecraft-ChunkQuery-Viewer](https://github.com/TheMcSebi/Minecraft-ChunkQuery-Client)
 
 ## Versions
  - Minecraft 1.20.1
